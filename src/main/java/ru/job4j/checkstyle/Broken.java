@@ -10,6 +10,7 @@ public class Broken {
             System.out.println(obj);
         }
     }
+
     void method(int a, int b, int c, int d, int e, int f, int g) {
     }
 
