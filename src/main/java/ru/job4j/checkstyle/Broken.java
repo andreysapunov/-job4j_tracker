@@ -5,6 +5,7 @@ public class Broken {
     private int size = 10;
     public String surname;
 
+
     void media(Object obj) {
         if (obj != null) {
             System.out.println(obj);
